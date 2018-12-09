@@ -1,0 +1,27 @@
+ /*Global */
+.container{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+}
+
+#avatar {
+    border-radius: 50%;
+    width: 100%;
+    margin: auto;
+}
+
+#avatardiv{
+    width: 25%;
+    float: left;
+    margin-right: 100px;
+    background-color: #E6FDFF;
+    border-radius: 50px;
+}
+
+#intro{
+    background-color: #E6FDFF;
+    border-radius: 50px;
+    padding: 0 20px 0 20px;
+}
